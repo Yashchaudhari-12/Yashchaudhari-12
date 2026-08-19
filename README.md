@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YashChaudhari-12">
-    <img src="https://img.shields.io/badge/GitHub-YashChaudhari--12-181717?style=for-the-badge&logo=github">
-  </a>
   <a href="https://leetcode.com/YashChaudhari12/">
     <img src="https://img.shields.io/badge/LeetCode-YashChaudhari12-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+  </a>
+  <a href="https://github.com/YashChaudhari-12">
+    <img src="https://img.shields.io/badge/GitHub-YashChaudhari--12-181717?style=for-the-badge&logo=github">
   </a>
 </p>
 
@@ -20,13 +20,12 @@
 I'm a B.Tech engineering student focused on building strong
 programming and problem-solving fundamentals.
 
-Currently, most of my time goes into:
+Currently, I'm focused on:
 
 - 💻 C++ programming
 - 🧠 Data Structures & Algorithms
-- 🔥 LeetCode problem solving
+- 🔥 LeetCode
 - 📚 Striver's A2Z DSA Sheet
-- 🌱 Building consistency through daily practice
 - 🎯 Preparing for a third-year internship
 
 ---
@@ -39,7 +38,7 @@ Currently, most of my time goes into:
 
 ### 💻 C++ & DSA
 
-Currently solving problems using **C++** and strengthening my understanding of algorithms and data structures.
+Strengthening my C++ fundamentals while solving Data Structures & Algorithms problems.
 
 </td>
 
@@ -47,7 +46,7 @@ Currently solving problems using **C++** and strengthening my understanding of a
 
 ### 🔥 LeetCode
 
-Solving problems regularly and maintaining a daily problem-solving habit.
+Solving problems regularly and building consistency through daily problem solving.
 
 </td>
 </tr>
@@ -57,7 +56,7 @@ Solving problems regularly and maintaining a daily problem-solving habit.
 
 ### 📚 A2Z DSA
 
-Following **Striver's A2Z DSA Sheet** systematically.
+Following Striver's A2Z DSA Sheet systematically.
 
 **Current Topic:** Binary Search
 
@@ -67,11 +66,39 @@ Following **Striver's A2Z DSA Sheet** systematically.
 
 ### 🎯 Internship Preparation
 
-Building the fundamentals required for a **third-year software internship**.
+Building the programming and problem-solving foundation needed for a third-year internship.
 
 </td>
 </tr>
 </table>
+
+---
+
+## 📊 Coding Activity
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <a href="https://github.com/YashChaudhari-12">
+    <img src="https://streak-stats.demolab.com/?user=YashChaudhari-12&theme=dark&hide_border=true" alt="GitHub Streak">
+  </a>
+</p>
+
+### 🧩 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/YashChaudhari12/">
+    <img src="https://leetcard.jacoblin.cool/YashChaudhari12?theme=dark&border=0" alt="LeetCode Stats">
+  </a>
+</p>
+
+### 📅 LeetCode Activity
+
+<p align="center">
+  <a href="https://leetcode.com/YashChaudhari12/">
+    <img src="https://leetcard.jacoblin.cool/YashChaudhari12?ext=heatmap&theme=dark&border=0" alt="LeetCode Heatmap">
+  </a>
+</p>
 
 ---
 
@@ -139,9 +166,99 @@ An educational website developed as a college project.
 
 ## 📈 DSA Progress
 
-```text
-Arrays          ████████████████████  Completed
-Binary Search   ████░░░░░░░░░░░░░░░░  In Progress
-Strings         ░░░░░░░░░░░░░░░░░░░░  Not Started
-Linked List     ░░░░░░░░░░░░░░░░░░░░  Not Started
-Recursion       ░░░░░░░░░░░░░░░░░░░░  Not Started
+<table>
+<tr>
+<th>Topic</th>
+<th>Status</th>
+</tr>
+
+<tr>
+<td>Arrays</td>
+<td>✅ Completed</td>
+</tr>
+
+<tr>
+<td>Binary Search</td>
+<td>🔄 In Progress</td>
+</tr>
+
+<tr>
+<td>Strings</td>
+<td>⬜ Not Started</td>
+</tr>
+
+<tr>
+<td>Linked List</td>
+<td>⬜ Not Started</td>
+</tr>
+
+<tr>
+<td>Recursion</td>
+<td>⬜ Not Started</td>
+</tr>
+
+<tr>
+<td>Bit Manipulation</td>
+<td>⬜ Not Started</td>
+</tr>
+
+<tr>
+<td>Stacks & Queues</td>
+<td>⬜ Not Started</td>
+</tr>
+
+<tr>
+<td>Sliding Window</td>
+<td>⬜ Not Started</td>
+</tr>
+
+<tr>
+<td>Heaps</td>
+<td>⬜ Not Started</td>
+</tr>
+
+<tr>
+<td>Graphs</td>
+<td>⬜ Not Started</td>
+</tr>
+
+<tr>
+<td>Dynamic Programming</td>
+<td>⬜ Not Started</td>
+</tr>
+
+</table>
+
+---
+
+## 🎯 2026–27 Goals
+
+- Strengthen C++ fundamentals
+- Complete Striver's A2Z DSA Sheet
+- Properly revise the problems I solve
+- Become a stronger problem solver
+- Build meaningful projects
+- Prepare seriously for a third-year internship
+
+---
+
+<details>
+<summary><b>📚 My Approach to Learning</b></summary>
+
+<br>
+
+I focus on understanding problems rather than simply collecting solved questions.
+
+My DSA process:
+
+**Understand → Attempt → Implement → Recall → Revise**
+
+The goal is not just to solve a problem once, but to eventually reproduce the approach independently.
+
+</details>
+
+---
+
+<p align="center">
+  <i>Learning quietly. Building consistently.</i>
+</p>
