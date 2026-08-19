@@ -1,16 +1,13 @@
-<h1 align="center">Yash Chaudhari</h1>
+<h1 align="center">Hi, I'm Yash Chaudhari 👋</h1>
 
 <p align="center">
-  <b>B.Tech Engineering Student</b> • C++ • DSA • Problem Solving
+  B.Tech Engineering Student • C++ • DSA • Problem Solving
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/YashChaudhari12/">
-    <img src="https://img.shields.io/badge/LeetCode-YashChaudhari12-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
-  </a>
-  <a href="https://github.com/YashChaudhari-12">
-    <img src="https://img.shields.io/badge/GitHub-YashChaudhari--12-181717?style=for-the-badge&logo=github">
-  </a>
+  <a href="https://github.com/YashChaudhari-12">GitHub</a>
+  •
+  <a href="https://leetcode.com/YashChaudhari12/">LeetCode</a>
 </p>
 
 ---
@@ -20,53 +17,35 @@
 I'm a B.Tech engineering student focused on building strong
 programming and problem-solving fundamentals.
 
-Currently, I'm focused on:
+Currently, I'm working mainly with **C++** and **Data Structures & Algorithms** while preparing for a third-year internship.
 
-- 💻 C++ programming
-- 🧠 Data Structures & Algorithms
-- 🔥 LeetCode
-- 📚 Striver's A2Z DSA Sheet
+- 💻 Solving DSA problems in C++
+- 🧠 Following Striver's A2Z DSA Sheet
+- 🔥 Practicing on LeetCode
+- 📚 Revising problems to build long-term understanding
 - 🎯 Preparing for a third-year internship
 
 ---
 
-## 🧠 What I'm Working On
+## 🚀 What I'm Currently Doing
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 💻 C++ & DSA
+### 🧠 Data Structures & Algorithms
 
-Strengthening my C++ fundamentals while solving Data Structures & Algorithms problems.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔥 LeetCode
-
-Solving problems regularly and building consistency through daily problem solving.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📚 A2Z DSA
-
-Following Striver's A2Z DSA Sheet systematically.
+Working through **Striver's A2Z DSA Sheet** in C++.
 
 **Current Topic:** Binary Search
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🎯 Internship Preparation
+### 🔥 LeetCode
 
-Building the programming and problem-solving foundation needed for a third-year internship.
+Solving problems regularly and building consistency with daily problem solving.
 
 </td>
 </tr>
@@ -76,61 +55,68 @@ Building the programming and problem-solving foundation needed for a third-year 
 
 ## 📊 Coding Activity
 
-### 🔥 GitHub Streak
-
 <p align="center">
-  <a href="https://github.com/YashChaudhari-12">
-    <img src="https://streak-stats.demolab.com/?user=YashChaudhari-12&theme=dark&hide_border=true" alt="GitHub Streak">
-  </a>
+  <img
+    src="https://streak-stats.demolab.com/?user=YashChaudhari-12&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
-### 🧩 LeetCode
-
 <p align="center">
-  <a href="https://leetcode.com/YashChaudhari12/">
-    <img src="https://leetcard.jacoblin.cool/YashChaudhari12?theme=dark&border=0" alt="LeetCode Stats">
-  </a>
-</p>
-
-### 📅 LeetCode Activity
-
-<p align="center">
-  <a href="https://leetcode.com/YashChaudhari12/">
-    <img src="https://leetcard.jacoblin.cool/YashChaudhari12?ext=heatmap&theme=dark&border=0" alt="LeetCode Heatmap">
-  </a>
+  <img
+    src="https://leetcard.jacoblin.cool/YashChaudhari12?ext=heatmap&theme=dark&border=0"
+    alt="LeetCode Stats and Activity"
+  />
 </p>
 
 ---
 
-## 🚀 My Work
+## 🛠️ Current Skills
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
 
-### 🧠 Striver's A2Z DSA Sheet
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
 
-My solutions and progress while working through Striver's A2Z DSA Sheet in C++.
+<img src="https://img.shields.io/badge/DSA-Problem%20Solving-2F80ED?style=flat-square">
 
-<a href="https://github.com/YashChaudhari-12/strivers-a2z-sheet">
-View Repository →
-</a>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 
-</td>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 
-<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
 
-### 💻 LeetCode Solutions
+</p>
 
-My collection of LeetCode solutions written primarily in C++.
+---
 
-<a href="https://github.com/YashChaudhari-12/leetcode-solutions">
-View Repository →
-</a>
+## 📚 DSA Progress
 
-</td>
-</tr>
-</table>
+| Topic | Status |
+|---|---|
+| Arrays | ✅ Completed |
+| Binary Search | 🔄 In Progress |
+| Strings | ⬜ Not Started |
+| Linked List | ⬜ Not Started |
+| Recursion | ⬜ Not Started |
+| Bit Manipulation | ⬜ Not Started |
+| Stacks & Queues | ⬜ Not Started |
+| Sliding Window | ⬜ Not Started |
+| Heaps | ⬜ Not Started |
+| Binary Trees | ⬜ Not Started |
+| Graphs | ⬜ Not Started |
+| Dynamic Programming | ⬜ Not Started |
+
+---
+
+## 💻 My Repositories
+
+### 🧠 [Striver's A2Z DSA Sheet](https://github.com/YashChaudhari-12/strivers-a2z-sheet)
+
+My C++ solutions while working through Striver's A2Z DSA Sheet.
+
+### 🔥 [LeetCode Solutions](https://github.com/YashChaudhari-12/leetcode-solutions)
+
+My collection of LeetCode solutions and daily problem-solving practice.
 
 ---
 
@@ -141,93 +127,8 @@ View Repository →
 An educational website developed as a college project.
 
 - 🥇 Won **1st Prize** for Best Website
+- 💡 Contributed to the idea and overall presentation
 - 🎤 Presented the project to industry professionals
-- 💡 Contributed to the idea and presentation
-
----
-
-## 🛠️ Current Skills
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-
-<img src="https://img.shields.io/badge/DSA-Problem%20Solving-2F80ED?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-
-</p>
-
----
-
-## 📈 DSA Progress
-
-<table>
-<tr>
-<th>Topic</th>
-<th>Status</th>
-</tr>
-
-<tr>
-<td>Arrays</td>
-<td>✅ Completed</td>
-</tr>
-
-<tr>
-<td>Binary Search</td>
-<td>🔄 In Progress</td>
-</tr>
-
-<tr>
-<td>Strings</td>
-<td>⬜ Not Started</td>
-</tr>
-
-<tr>
-<td>Linked List</td>
-<td>⬜ Not Started</td>
-</tr>
-
-<tr>
-<td>Recursion</td>
-<td>⬜ Not Started</td>
-</tr>
-
-<tr>
-<td>Bit Manipulation</td>
-<td>⬜ Not Started</td>
-</tr>
-
-<tr>
-<td>Stacks & Queues</td>
-<td>⬜ Not Started</td>
-</tr>
-
-<tr>
-<td>Sliding Window</td>
-<td>⬜ Not Started</td>
-</tr>
-
-<tr>
-<td>Heaps</td>
-<td>⬜ Not Started</td>
-</tr>
-
-<tr>
-<td>Graphs</td>
-<td>⬜ Not Started</td>
-</tr>
-
-<tr>
-<td>Dynamic Programming</td>
-<td>⬜ Not Started</td>
-</tr>
-
-</table>
 
 ---
 
@@ -243,17 +144,17 @@ An educational website developed as a college project.
 ---
 
 <details>
-<summary><b>📚 My Approach to Learning</b></summary>
+<summary><b>📖 My Learning Approach</b></summary>
 
 <br>
 
-I focus on understanding problems rather than simply collecting solved questions.
+I don't want to simply collect solved problems.
 
-My DSA process:
+My approach is:
 
 **Understand → Attempt → Implement → Recall → Revise**
 
-The goal is not just to solve a problem once, but to eventually reproduce the approach independently.
+The goal is to eventually solve problems independently rather than remembering solutions mechanically.
 
 </details>
 
