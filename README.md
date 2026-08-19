@@ -1,20 +1,12 @@
-## Hi there 👋
-
-<!--
-**Yashchaudhari-12/Yashchaudhari-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...<h1 align="center">Hi, I'm Yash Chaudhari 👋</h1>
+<h1 align="center">Hi, I'm Yash Chaudhari 👋</h1>
 
 <p align="center">
   B.Tech Engineering Student | C++ | DSA | Software Development
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/YashChaudhari12/">LeetCode</a> •
+  <a href="https://github.com/YashChaudhari-12">GitHub</a>
 </p>
 
 ---
@@ -24,13 +16,13 @@ Here are some ideas to get you started:
 I'm a B.Tech engineering student focused on building strong
 computer science fundamentals and becoming a better software engineer.
 
-- 💻 Currently solving DSA problems in C++
+- 💻 Solving Data Structures & Algorithms problems in C++
 - 🧠 Following Striver's A2Z DSA Sheet
 - 🔥 Practicing LeetCode regularly
-- 🚀 Building projects and strengthening my development skills
+- 🚀 Building projects and strengthening development skills
 - 🎯 Preparing for a third-year internship
 
-## 🧠 Current Focus
+## 🎯 Current Focus
 
 - Data Structures & Algorithms
 - C++
@@ -39,22 +31,37 @@ computer science fundamentals and becoming a better software engineer.
 - Backend Development
 - Cloud Computing
 
+## 🧠 DSA Journey
+
+Currently working through **Striver's A2Z DSA Sheet** in C++.
+
+📌 **Current Topic:** Binary Search
+
+- [My A2Z DSA Journey](https://github.com/YashChaudhari-12/strivers-a2z-sheet)
+- [My LeetCode Solutions](https://github.com/YashChaudhari-12/leetcode-solutions)
+
 ## 🚀 Projects
 
 ### 🎓 Edumark
 
-Educational website developed as a college project.
+Educational platform developed as a college project.
 
 - 🏆 Won first prize for Best Website
 - 🎤 Presented the project to industry professionals
 
-## 📚 DSA Journey
+## 🛠️ Technologies
 
-Currently working through Striver's A2Z DSA Sheet.
+**Languages**
 
-➡️ [View my A2Z DSA Journey](https://github.com/YashChaudhari-12/strivers-a2z-sheet)
+C++ • Python
 
-➡️ [View my LeetCode Solutions](https://github.com/YashChaudhari-12/leetcode-solutions)
+**Currently Learning**
+
+DSA • SQL • Linux • Git • Backend • Cloud
+
+**Tools**
+
+Git • GitHub • VS Code
 
 ## 🎯 2026–27 Goals
 
@@ -64,5 +71,9 @@ Currently working through Striver's A2Z DSA Sheet.
 - Learn backend development
 - Learn cloud fundamentals
 - Secure a third-year internship
-- ⚡ Fun fact: ...
--->
+
+---
+
+<p align="center">
+  <i>Learning. Building. Improving.</i>
+</p>
