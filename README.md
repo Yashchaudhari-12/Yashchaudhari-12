@@ -1,59 +1,37 @@
-<h1 align="center">Hi, I'm Yash Chaudhari 👋</h1>
+<h1 align="center">Yash Chaudhari</h1>
 
 <p align="center">
-  B.Tech Engineering Student • C++ • DSA • Problem Solving
+  B.Tech Engineering Student • C++ • Data Structures & Algorithms
 </p>
 
 <p align="center">
-  <a href="https://github.com/YashChaudhari-12">GitHub</a>
-  •
-  <a href="https://leetcode.com/YashChaudhari12/">LeetCode</a>
+  <a href="https://github.com/YashChaudhari-12">
+    GitHub
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a B.Tech engineering student focused on building strong
-programming and problem-solving fundamentals.
+B.Tech engineering student focused on strengthening programming fundamentals,
+problem solving, and Data Structures & Algorithms.
 
-Currently, I'm working mainly with **C++** and **Data Structures & Algorithms** while preparing for a third-year internship.
-
-- 💻 Solving DSA problems in C++
-- 🧠 Following Striver's A2Z DSA Sheet
-- 🔥 Practicing on LeetCode
-- 📚 Revising problems to build long-term understanding
-- 🎯 Preparing for a third-year internship
+Currently working primarily with **C++**.
 
 ---
 
-## 🚀 What I'm Currently Doing
+## Current Focus
 
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 Data Structures & Algorithms
-
-Working through **Striver's A2Z DSA Sheet** in C++.
-
-**Current Topic:** Binary Search
-
-</td>
-
-<td width="50%">
-
-### 🔥 LeetCode
-
-Solving problems regularly and building consistency with daily problem solving.
-
-</td>
-</tr>
-</table>
+- C++
+- Data Structures & Algorithms
+- Problem Solving
+- Striver's A2Z DSA Sheet
+- Building consistency through deliberate practice
 
 ---
 
-## 📊 Coding Activity
+## Coding Activity
 
 <p align="center">
   <img
@@ -62,16 +40,9 @@ Solving problems regularly and building consistency with daily problem solving.
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://leetcard.jacoblin.cool/YashChaudhari12?ext=heatmap&theme=dark&border=0"
-    alt="LeetCode Stats and Activity"
-  />
-</p>
-
 ---
 
-## 🛠️ Current Skills
+## Skills
 
 <p align="center">
 
@@ -89,7 +60,7 @@ Solving problems regularly and building consistency with daily problem solving.
 
 ---
 
-## 📚 DSA Progress
+## DSA Progress
 
 | Topic | Status |
 |---|---|
@@ -108,58 +79,28 @@ Solving problems regularly and building consistency with daily problem solving.
 
 ---
 
-## 💻 My Repositories
+## Projects
 
-### 🧠 [Striver's A2Z DSA Sheet](https://github.com/YashChaudhari-12/strivers-a2z-sheet)
+### Edumark
 
-My C++ solutions while working through Striver's A2Z DSA Sheet.
+Educational website developed as a college project.
 
-### 🔥 [LeetCode Solutions](https://github.com/YashChaudhari-12/leetcode-solutions)
-
-My collection of LeetCode solutions and daily problem-solving practice.
-
----
-
-## 🏆 Project
-
-### 🎓 Edumark
-
-An educational website developed as a college project.
-
-- 🥇 Won **1st Prize** for Best Website
-- 💡 Contributed to the idea and overall presentation
-- 🎤 Presented the project to industry professionals
+- 🥇 1st Prize — Best Website
+- Contributed to the idea and presentation
+- Presented the project to industry professionals
 
 ---
 
-## 🎯 2026–27 Goals
+## Repositories
 
-- Strengthen C++ fundamentals
-- Complete Striver's A2Z DSA Sheet
-- Properly revise the problems I solve
-- Become a stronger problem solver
-- Build meaningful projects
-- Prepare seriously for a third-year internship
+**[Striver's A2Z DSA Sheet](https://github.com/YashChaudhari-12/strivers-a2z-sheet)**  
+C++ solutions and progress through the A2Z DSA Sheet.
 
----
-
-<details>
-<summary><b>📖 My Learning Approach</b></summary>
-
-<br>
-
-I don't want to simply collect solved problems.
-
-My approach is:
-
-**Understand → Attempt → Implement → Recall → Revise**
-
-The goal is to eventually solve problems independently rather than remembering solutions mechanically.
-
-</details>
+**[LeetCode Solutions](https://github.com/YashChaudhari-12/leetcode-solutions)**  
+Solutions to problems I've worked through in C++.
 
 ---
 
 <p align="center">
-  <i>Learning quietly. Building consistently.</i>
+  <i>Build quietly. Let the work speak.</i>
 </p>
