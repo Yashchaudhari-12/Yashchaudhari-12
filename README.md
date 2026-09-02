@@ -1,7 +1,7 @@
 <h1 align="center">Yash Chaudhari</h1>
 
 <p align="center">
-  <b>B.Tech Engineering Student</b> • C++ • DSA • Problem Solving
+  <b>B.Tech CSE Student</b> • C++ • DSA • Problem Solving • Core CS
 </p>
 
 <p align="center">
@@ -17,17 +17,19 @@
 
 ## 👨‍💻 About Me
 
-I'm a B.Tech engineering student focused on building strong
-programming and problem-solving fundamentals.
+I'm a B.Tech CSE student focused on becoming a strong software engineer
+through consistent problem solving, computer science fundamentals, and
+hands-on development.
 
-Currently, most of my time goes into:
+Currently, I'm working on:
 
-- 💻 C++ programming
-- 🧠 Data Structures & Algorithms
-- 🔥 LeetCode problem solving
+- 💻 C++ and Data Structures & Algorithms
+- 🧠 Competitive Programming
+- 🔥 Daily LeetCode problem solving
 - 📚 Striver's A2Z DSA Sheet
-- 🌱 Building consistency through daily practice
-- 🎯 Preparing for a third-year internship
+- 🖥️ Core Computer Science fundamentals
+- 🐧 Linux, Git and developer tooling
+- 🎯 Preparing for a third-year software engineering internship
 
 ---
 
@@ -37,17 +39,22 @@ Currently, most of my time goes into:
 <tr>
 <td width="50%" valign="top">
 
-### 💻 C++ & DSA
+### 💻 DSA & Problem Solving
 
-Currently solving problems using **C++** and strengthening my understanding of algorithms and data structures.
+Working systematically through Data Structures & Algorithms using
+C++ and Striver's A2Z DSA Sheet.
+
+I focus on understanding patterns and approaches rather than
+just memorizing solutions.
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔥 LeetCode
+### 🔥 Competitive Programming
 
-Solving problems regularly and maintaining a daily problem-solving habit.
+Practicing regularly on LeetCode and CodeChef to improve
+problem solving under time constraints.
 
 </td>
 </tr>
@@ -55,11 +62,15 @@ Solving problems regularly and maintaining a daily problem-solving habit.
 <tr>
 <td width="50%" valign="top">
 
-### 📚 A2Z DSA
+### 🖥️ Core CS
 
-Following **Striver's A2Z DSA Sheet** systematically.
+Currently strengthening fundamentals in:
 
-**Current Topic:** Binary Search
+- Operating Systems
+- OOP
+- DBMS
+- Computer Networks
+- Computer Architecture
 
 </td>
 
@@ -67,7 +78,11 @@ Following **Striver's A2Z DSA Sheet** systematically.
 
 ### 🎯 Internship Preparation
 
-Building the fundamentals required for a **third-year software internship**.
+Building the technical foundation required for a
+strong third-year software engineering internship.
+
+My longer-term focus is software engineering, backend development,
+and building real-world systems.
 
 </td>
 </tr>
@@ -83,7 +98,8 @@ Building the fundamentals required for a **third-year software internship**.
 
 ### 🧠 Striver's A2Z DSA Sheet
 
-My solutions and progress while working through Striver's A2Z DSA Sheet in C++.
+My solutions and progress while working through
+Striver's A2Z DSA Sheet in C++.
 
 <a href="https://github.com/YashChaudhari-12/strivers-a2z-sheet">
 View Repository →
@@ -107,7 +123,7 @@ View Repository →
 
 ---
 
-## 🏆 Project
+## 🏆 Projects
 
 ### 🎓 Edumark
 
@@ -127,6 +143,10 @@ An educational website developed as a college project.
 
 <img src="https://img.shields.io/badge/DSA-Problem%20Solving-2F80ED?style=for-the-badge">
 
+<img src="https://img.shields.io/badge/Competitive%20Programming-333333?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -140,8 +160,8 @@ An educational website developed as a college project.
 ## 📈 DSA Progress
 
 ```text
-Arrays          ████████████████████  Completed
-Binary Search   ████░░░░░░░░░░░░░░░░  In Progress
-Strings         ░░░░░░░░░░░░░░░░░░░░  Not Started
-Linked List     ░░░░░░░░░░░░░░░░░░░░  Not Started
-Recursion       ░░░░░░░░░░░░░░░░░░░░  Not Started
+Arrays              ████████████████████  Completed
+Binary Search       ████████████████████  Completed
+Strings             ░░░░░░░░░░░░░░░░░░░░  Next
+Linked List         ░░░░░░░░░░░░░░░░░░░░  Upcoming
+Recursion           ░░░░░░░░░░░░░░░░░░░░  Upcoming
